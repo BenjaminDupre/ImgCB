@@ -1,0 +1,14 @@
+# Library dependencies for the python code.  You need to install or have them
+# before you can run this. To do this run `pip install -r requirements.txt`
+
+# Python Image Library 
+# to open and show images.
+Pillow
+
+# Operating system interface.
+# To manga the storing folders for the altered images and mask. 
+# os is standard library no need to install. 
+
+
+# numpy is a N-dimensional array object
+numpy
