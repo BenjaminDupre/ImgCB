@@ -15,7 +15,7 @@ To have an idea of how the show was you can look at the [link](https://www.youtu
 7. To dynamically execute the python code we enter ```exec(open('checkmask.py').read())```
 ### Examples:
 In the zip file there are two example pictures to ran the function with (greenthumb.jpg and blackmail.jpg). 
-Both images where are from Wire Magazine article on Gabriel Zimmers photos. You can watch the article on this [link](https://www.wired.com/story/idioms-photographs/)
+Both images are from Wire Magazine article on Gabriel Zimmers photos. You can watch the article on this [link](https://www.wired.com/story/idioms-photographs/)
 
 8. First example: ```checkmask('greenthumb.jpg',4)```
 9. Second example: ```checkmask('blackmail.jpg',7)```
