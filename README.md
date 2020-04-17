@@ -17,5 +17,6 @@ To have an idea of how the show was you can look at the [link](https://www.youtu
 In the zip file there are two example pictures to ran the function with (greenthumb.jpg and blackmail.jpg). 
 Both images where are from Wire Magazine article on Gabriel Zimmers photos. You can watch the article on this [link](https://www.wired.com/story/idioms-photographs/)
 
-* First example: ```python checkmask('greenthumb.jpg',4)```
-* Second example: ```python checkmask('blackmail.jpg',7)```
+* 8. First example: ```checkmask('greenthumb.jpg',4)```
+* 9. Second example: ```checkmask('blackmail.jpg',7)```
+You can try others. 
