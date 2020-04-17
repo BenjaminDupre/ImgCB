@@ -19,4 +19,5 @@ Both images where are from Wire Magazine article on Gabriel Zimmers photos. You 
 
 8. First example: ```checkmask('greenthumb.jpg',4)```
 9. Second example: ```checkmask('blackmail.jpg',7)```
+
 You can try others. 
